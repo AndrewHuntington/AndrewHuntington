@@ -5,7 +5,7 @@ Welcome to my public profile! Feel free to look around my repositories. If you h
 
 I plan on updating this when I have a bit more time, but for now, feel free to follow my progress on [Learn Engough!](https://www.learnenough.com/).
 
-<a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a>
+<a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a><a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a>
 
 My [Certificates of Completion Page](https://www.learnenough.com/certificates/strugglebunny).
 
