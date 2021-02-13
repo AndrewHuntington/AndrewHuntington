@@ -3,6 +3,12 @@
 
 Welcome to my public profile! Feel free to look around my repositories. If you have any questions, please don't hesitate to [contact me](mailto:andrew.huntington@gmail.com).
 
+⚡ Check my profiles on these code challenge sites!
+- [exercism.io](https://exercism.io/profiles/AndrewHuntington)
+- [Codewars](https://www.codewars.com/users/strugglebunny)
+- [LeetCode](https://leetcode.com/strugglebunny/)
+
+
 :books: I’m currently working through/learning ...
 - The _Learn Enough to be Dangerous_ tutorials at [Learn Engough](https://www.learnenough.com/)
 - [_Think Like a Programmer_](http://www.vantonspraul.com/TLAP) by V. Anton Spraul
