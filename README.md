@@ -10,7 +10,7 @@ Welcome to my public profile! Feel free to look around my repositories. If you h
 
 
 :books: I’m currently working through/learning ...
-- The _Learn Enough to be Dangerous_ tutorials at [Learn Engough](https://www.learnenough.com/)
+- The _Learn Enough to be Dangerous_ tutorials at [Learn Enough](https://www.learnenough.com/)
 - [_Think Like a Programmer_](http://www.vantonspraul.com/TLAP) by V. Anton Spraul
 
 🔭 I’m currently working on ...
