@@ -14,7 +14,7 @@ Welcome to my public profile! Feel free to look around my repositories. If you h
 - [_Think Like a Programmer_](http://www.vantonspraul.com/TLAP) by V. Anton Spraul
 
 🔭 I’m currently working on ...
-- [My Personal Homepage](https://andrewhuntington.com) (Currently Working On: Blog)
+- [My Personal Homepage](https://andrewhuntington.com) (Feature Being Developed: Blog)
 
 I plan on updating this more when I have a bit more time, but for now, feel free to follow my progress on [Learn Engough](https://www.learnenough.com/).
 
