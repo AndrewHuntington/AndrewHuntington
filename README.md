@@ -6,19 +6,15 @@ Welcome to my public profile! Feel free to look around my repositories. If you h
 ⚡ Check my profiles on these code challenge sites!
 - [exercism.io](https://exercism.io/profiles/AndrewHuntington)
 - [Codewars](https://www.codewars.com/users/strugglebunny)
-- [LeetCode](https://leetcode.com/strugglebunny/)
-
 
 :books: I’m currently working through/learning ...
 - The _Learn Enough to be Dangerous_ tutorials at [Learn Enough](https://www.learnenough.com/)
-- [_Think Like a Programmer_](http://www.vantonspraul.com/TLAP) by V. Anton Spraul
 
 🔭 I’m currently working on ...
 - [My Personal Homepage](https://andrewhuntington.com) (Feature Being Developed: Blog)
 
 I plan on updating this more when I have a bit more time, but for now, feel free to follow my progress on [Learn Engough](https://www.learnenough.com/).
-
-<a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a><a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a><a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/html-tutorial.svg" alt="Certificate of Completion for Learn Enough HTML"></a><a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/css-and-layout-tutorial.svg" alt="Certificate of Completion for Learn Enough CSS &amp; Layout"></a><a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/javascript-tutorial.svg" alt="Certificate of Completion for Learn Enough JavaScript"></a>
+<a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a><a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a><a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/html-tutorial.svg" alt="Certificate of Completion for Learn Enough HTML"></a><a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/css-and-layout-tutorial.svg" alt="Certificate of Completion for Learn Enough CSS &amp; Layout"></a><a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/javascript-tutorial.svg" alt="Certificate of Completion for Learn Enough JavaScript"></a><a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a>
 
 My [Certificates of Completion Page](https://www.learnenough.com/certificates/strugglebunny).
 
