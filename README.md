@@ -13,7 +13,7 @@ Welcome to my public profile! Feel free to look around my repositories. If you h
 :books: I’m currently studying ...
 - _The Ruby on Rails Tutorial_ at [Learn Enough](https://www.learnenough.com/ruby-on-rails-6th-edition)
 - Perparing for the AWS Certified Cloud Practitioner exam
-- Jira
+- JIRA
 
 _**Please note that while I'm working through the above material, commits to my projects/GitHub will decrease in volume. I swear I'm still studying, however!_
 
