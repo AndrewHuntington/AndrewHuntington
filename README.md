@@ -1,5 +1,6 @@
 # Andrew Huntington's GitHub Profile
-### Hi there 👋
+## Hi there 👋
+### While you're here, why not checkout my [CodePen](https://codepen.io/strugglebunny)?
 
 Welcome to my public profile! Feel free to look around my repositories. If you have any questions, please don't hesitate to [contact me](mailto:andrew.huntington@gmail.com).
 
@@ -17,13 +18,13 @@ Welcome to my public profile! Feel free to look around my repositories. If you h
 - [The Modern JavaScript BootCamp Course](https://www.udemy.com/course/javascript-beginners-complete-tutorial/) on Udemy
 
 🔭 I’m currently working on ...
-- [freeCodeCamp's Responsive Web Design Projects](https://www.freecodecamp.org/learn/responsive-web-design/#responsive-web-design-projects)
+- [freeCodeCamp's Responsive Web Design Projects](https://www.freecodecamp.org/learn/responsive-web-design/#responsive-web-design-projects) [[My CodePen Collection](https://codepen.io/collection/waKZqN)]
 - [freeCodeCamp's JavaScript Algorithms and Data Structures Projects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#javascript-algorithms-and-data-structures-projects)
 - [My Personal Homepage](https://andrewhuntington.com) (Current Goal: Finish Blog)
 
 ⚡ Check my profiles on these code challenge sites!
 - [exercism.io](https://exercism.io/profiles/AndrewHuntington)
-- [Codewars](https://www.codewars.com/users/strugglebunny)
+- [Codewars](https://www.codewars.com/users/strugglebunny) ![My Codewars Rank](https://www.codewars.com/users/strugglebunny/badges/micro)
 
 I also hope to return to doing corse work via [The Odin Project](https://www.theodinproject.com/) as well as my own personal projects.
 
