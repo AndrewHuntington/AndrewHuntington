@@ -5,19 +5,20 @@ Welcome to my public profile! Feel free to look around my repositories. If you h
 
 :scroll: My certifications:
 - Japanese-Language Proficiency Test (JLPT) N2 日本語能力試験２級
-- AWS Certified Cloud Practicioner (In Progress)
+- AWS Certified Cloud Practicioner (Earned Apr 12, 2021)
+
+![My AWS Cloud Practitioner Certification](https://raw.githubusercontent.com/AndrewHuntington/personal-homepage/master/images/aws-certified-cloud-practitioner.png)
+
 - My [Certificates of Completion Page](https://www.learnenough.com/certificates/strugglebunny) from [Learn Enough](https://learnenough.com)
 
 <a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a><a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a><a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/html-tutorial.svg" alt="Certificate of Completion for Learn Enough HTML"></a><a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/css-and-layout-tutorial.svg" alt="Certificate of Completion for Learn Enough CSS &amp; Layout"></a><a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/javascript-tutorial.svg" alt="Certificate of Completion for Learn Enough JavaScript"></a><a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a>
 
 :books: I’m currently studying ...
-- _The Ruby on Rails Tutorial_ at [Learn Enough](https://www.learnenough.com/ruby-on-rails-6th-edition)
-- Perparing for the AWS Certified Cloud Practitioner exam
-- JIRA
-
-_**Please note that while I'm working through the above material, commits to my projects/GitHub will decrease in volume. I swear I'm still studying, however!_
+- [The Modern JavaScript BootCamp Course](https://www.udemy.com/course/javascript-beginners-complete-tutorial/) on Udemy
 
 🔭 I’m currently working on ...
+- [freeCodeCamp's Responsive Web Design Projects](https://www.freecodecamp.org/learn/responsive-web-design/#responsive-web-design-projects)
+- [freeCodeCamp's JavaScript Algorithms and Data Structures Projects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#javascript-algorithms-and-data-structures-projects)
 - [My Personal Homepage](https://andrewhuntington.com) (Current Goal: Finish Blog)
 
 ⚡ Check my profiles on these code challenge sites!
