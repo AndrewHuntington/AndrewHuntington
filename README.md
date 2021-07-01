@@ -10,25 +10,26 @@ Welcome to my public profile! Feel free to look around my repositories. If you h
 
 ![My AWS Cloud Practitioner Certification](https://raw.githubusercontent.com/AndrewHuntington/personal-homepage/master/images/aws-certified-cloud-practitioner.png)
 
-- [freeCodeCamp's JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/strugglebunny/javascript-algorithms-and-data-structures)
-- The Modern JavaScript BootCamp Course Certificiate of Completion (Udemy)
+- freeCodeCamp:
+    - [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/strugglebunny/javascript-algorithms-and-data-structures)
+    - [Responsive Web Design Projects](https://www.freecodecamp.org/certification/strugglebunny/responsive-web-design) [[My CodePen Collection](https://codepen.io/collection/waKZqN)]
+
 
 - My [Certificates of Completion Page](https://www.learnenough.com/certificates/strugglebunny) from [Learn Enough](https://learnenough.com)
 
 <a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a><a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a><a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/html-tutorial.svg" alt="Certificate of Completion for Learn Enough HTML"></a><a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/css-and-layout-tutorial.svg" alt="Certificate of Completion for Learn Enough CSS &amp; Layout"></a><a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/javascript-tutorial.svg" alt="Certificate of Completion for Learn Enough JavaScript"></a><a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a>
 
 :books: I’m currently studying ...
+- React.js
 
 🔭 I’m currently working on ...
-- [freeCodeCamp's Responsive Web Design Projects](https://www.freecodecamp.org/learn/responsive-web-design/#responsive-web-design-projects) [[My CodePen Collection](https://codepen.io/collection/waKZqN)]
+- The Full Stack JavaScript Path at [The Odin Project](https://www.theodinproject.com/) 
 - [My Personal Homepage](https://andrewhuntington.com) (Current Goal: Finish Blog)
 
 ⚡ Check my profiles on these code challenge sites!
 - [exercism.io](https://exercism.io/profiles/AndrewHuntington)
 - [Codewars](https://www.codewars.com/users/strugglebunny) ![My Codewars Rank](https://www.codewars.com/users/strugglebunny/badges/micro)
 - [CSSBattle](https://cssbattle.dev/player/strugglebunny)
-
-I also hope to return to doing corse work via [The Odin Project](https://www.theodinproject.com/) as well as my own personal projects.
 
 📫 How to reach me:
 - [My LinkedIn Profile](https://www.linkedin.com/in/andrew-huntington-7827582b/)
