@@ -1,6 +1,6 @@
 # Andrew Huntington's GitHub Profile
 ## Hi there 👋
-### While you're here, why not checkout my [CodePen](https://codepen.io/strugglebunny)?
+### I'm a Yokohama, Japan based Frontend Web Devolper. If you are interested in hiring me for a project or for your business, please send me an [email](mailto:andrew.huntington@gmail.com). (日本語の問い合わせもOK！)
 
 Welcome to my public profile! Feel free to look around my repositories. If you have any questions, please don't hesitate to [contact me](mailto:andrew.huntington@gmail.com).
 
@@ -21,12 +21,14 @@ Welcome to my public profile! Feel free to look around my repositories. If you h
 
 :books: I’m currently studying ...
 - React.js
+- TypeScript
 
 🔭 I’m currently working on ...
+- Projects on [Frontend Mentor](https://www.frontendmentor.io) (See [my profile here](https://www.frontendmentor.io/profile/AndrewHuntington)!)
 - The Full Stack JavaScript Path at [The Odin Project](https://www.theodinproject.com/) 
-- [My Personal Homepage](https://andrewhuntington.com) (Current Goal: Finish Blog)
+- [My Personal Homepage](https://andrewhuntington.com) (Currently needs a big overhaul!)
 
-⚡ Check my profiles on these code challenge sites!
+⚡ Check my profiles on these code challenge sites! (I don't do these that often
 - [exercism.io](https://exercism.io/profiles/AndrewHuntington)
 - [Codewars](https://www.codewars.com/users/strugglebunny) ![My Codewars Rank](https://www.codewars.com/users/strugglebunny/badges/micro)
 - [CSSBattle](https://cssbattle.dev/player/strugglebunny)
