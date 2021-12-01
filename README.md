@@ -28,7 +28,7 @@ Welcome to my public profile! Feel free to look around my repositories. If you h
 - The Full Stack JavaScript Path at [The Odin Project](https://www.theodinproject.com/) 
 - [My Personal Homepage](https://andrewhuntington.com) (Currently needs a big overhaul!)
 
-⚡ Check my profiles on these code challenge sites! (I don't do these that often
+⚡ Check my profiles on these code challenge sites! (I don't do these that often.)
 - [exercism.io](https://exercism.io/profiles/AndrewHuntington)
 - [Codewars](https://www.codewars.com/users/strugglebunny) ![My Codewars Rank](https://www.codewars.com/users/strugglebunny/badges/micro)
 - [CSSBattle](https://cssbattle.dev/player/strugglebunny)
