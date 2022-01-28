@@ -2,6 +2,8 @@
 ## Hi there 👋
 ### I'm a Yokohama, Japan based Frontend Web Devolper. If you are interested in hiring me for a project or for your business, please send me an [email](mailto:andrew.huntington@gmail.com). (日本語の問い合わせもOK！)
 
+### [My Business Card](https://andrewhuntington.com)
+
 Welcome to my public profile! Feel free to look around my repositories. If you have any questions, please don't hesitate to [contact me](mailto:andrew.huntington@gmail.com).
 
 :scroll: My certifications:
@@ -26,7 +28,6 @@ Welcome to my public profile! Feel free to look around my repositories. If you h
 🔭 I’m currently working on ...
 - Projects on [Frontend Mentor](https://www.frontendmentor.io) (See [my profile here](https://www.frontendmentor.io/profile/AndrewHuntington)!)
 - The Full Stack JavaScript Path at [The Odin Project](https://www.theodinproject.com/) 
-- [My Personal Homepage](https://andrewhuntington.com) (Currently needs a big overhaul!)
 
 ⚡ Check my profiles on these code challenge sites! (I don't do these that often.)
 - [exercism.io](https://exercism.io/profiles/AndrewHuntington)
