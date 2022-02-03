@@ -1,5 +1,28 @@
 # Andrew Huntington's GitHub Profile
 ## Hi there 👋
+<div align="left">
+  <a href="https://twitter.com/andyh_1982">
+    <img
+      src="https://img.shields.io/twitter/follow/andyh_1982?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="Twitter"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/andrew-huntington-yokjpn/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://api.daily.dev/get?r=andyh_82" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://github.com/andrewhuntington/andrewhuntington/blob/master/devcard.svg"
+    />
+  </a>
+</div>
+
 ### I'm a Yokohama, Japan based Frontend Web Devolper. If you are interested in hiring me for a project or for your business, please send me an [email](mailto:andrew.huntington@gmail.com). (日本語の問い合わせもOK！)
 
 ### [My Business Card](https://andrewhuntington.com)
@@ -12,31 +35,21 @@ Welcome to my public profile! Feel free to look around my repositories. If you h
 
 ![My AWS Cloud Practitioner Certification](https://raw.githubusercontent.com/AndrewHuntington/personal-homepage/master/images/aws-certified-cloud-practitioner.png)
 
-- freeCodeCamp:
-    - [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/strugglebunny/javascript-algorithms-and-data-structures)
-    - [Responsive Web Design Projects](https://www.freecodecamp.org/certification/strugglebunny/responsive-web-design) [[My CodePen Collection](https://codepen.io/collection/waKZqN)]
-
-
-- My [Certificates of Completion Page](https://www.learnenough.com/certificates/strugglebunny) from [Learn Enough](https://learnenough.com)
-
-<a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a><a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a><a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/html-tutorial.svg" alt="Certificate of Completion for Learn Enough HTML"></a><a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/css-and-layout-tutorial.svg" alt="Certificate of Completion for Learn Enough CSS &amp; Layout"></a><a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/javascript-tutorial.svg" alt="Certificate of Completion for Learn Enough JavaScript"></a><a href="https://www.learnenough.com/certificates/strugglebunny"><img src="https://www.learnenough.com/certificates/strugglebunny/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a>
-
 :books: I’m currently studying ...
-- React.js
-- TypeScript
+- AWS Certified Solutions Architect - Associate
 
 🔭 I’m currently working on ...
 - Projects on [Frontend Mentor](https://www.frontendmentor.io) (See [my profile here](https://www.frontendmentor.io/profile/AndrewHuntington)!)
-- The Full Stack JavaScript Path at [The Odin Project](https://www.theodinproject.com/) 
 
 ⚡ Check my profiles on these code challenge sites! (I don't do these that often.)
 - [exercism.io](https://exercism.io/profiles/AndrewHuntington)
 - [Codewars](https://www.codewars.com/users/strugglebunny) ![My Codewars Rank](https://www.codewars.com/users/strugglebunny/badges/micro)
 - [CSSBattle](https://cssbattle.dev/player/strugglebunny)
 
+<!-- 
 📫 How to reach me:
 - [My LinkedIn Profile](https://www.linkedin.com/in/andrew-huntington-7827582b/)
-- [Send Me an Email](mailto:andrew.huntington@gmail.com)
+- [Send Me an Email](mailto:andrew.huntington@gmail.com) -->
 
 <!--
 **AndrewHuntington/AndrewHuntington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
