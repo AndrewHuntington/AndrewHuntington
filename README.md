@@ -31,7 +31,7 @@ Welcome to my public profile! Feel free to look around my repositories. If you h
 
 :scroll: My certifications:
 - Japanese-Language Proficiency Test (JLPT) N2 日本語能力試験２級
-- AWS Certified Cloud Practicioner (Earned Apr 12, 2021)
+- AWS Certified Cloud Practitioner (Earned Apr 12, 2021)
 
 ![My AWS Cloud Practitioner Certification](https://raw.githubusercontent.com/AndrewHuntington/personal-homepage/master/images/aws-certified-cloud-practitioner.png)
 
