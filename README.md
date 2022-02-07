@@ -36,15 +36,20 @@ Welcome to my public profile! Feel free to look around my repositories. If you h
 ![My AWS Cloud Practitioner Certification](https://raw.githubusercontent.com/AndrewHuntington/personal-homepage/master/images/aws-certified-cloud-practitioner.png)
 
 :books: I’m currently studying ...
+- React
+- TypeScript
+- Next.js
 - AWS Certified Solutions Architect - Associate
 
 🔭 I’m currently working on ...
+- [Scrimba's Learn React for Free](https://scrimba.com/learn/learnreact)
+    - Since I initially learned React using class based components, I'm using this course as a referesher and a way to solidify my knowledge of building functional components with hooks.
 - Projects on [Frontend Mentor](https://www.frontendmentor.io) (See [my profile here](https://www.frontendmentor.io/profile/AndrewHuntington)!)
 
 ⚡ Check my profiles on these code challenge sites! (I don't do these that often.)
 - [exercism.io](https://exercism.io/profiles/AndrewHuntington)
 - [Codewars](https://www.codewars.com/users/strugglebunny) ![My Codewars Rank](https://www.codewars.com/users/strugglebunny/badges/micro)
-- [CSSBattle](https://cssbattle.dev/player/strugglebunny)
+<!-- - [CSSBattle](https://cssbattle.dev/player/strugglebunny) -->
 
 <!-- 
 📫 How to reach me:
