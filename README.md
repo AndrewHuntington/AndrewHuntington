@@ -39,7 +39,6 @@ Welcome to my public profile! Feel free to look around my repositories. If you h
 - React
 - TypeScript
 - Next.js
-- AWS Certified Solutions Architect - Associate
 
 🔭 I’m currently working on ...
 - [Scrimba's Learn React for Free](https://scrimba.com/learn/learnreact)
