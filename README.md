@@ -41,8 +41,6 @@ Welcome to my public profile! Feel free to look around my repositories. If you h
 - Next.js
 
 🔭 I’m currently working on ...
-- [Scrimba's Learn React for Free](https://scrimba.com/learn/learnreact)
-    - Since I initially learned React using class based components, I'm using this course as a referesher and a way to solidify my knowledge of building functional components with hooks.
 - Projects on [Frontend Mentor](https://www.frontendmentor.io) (See [my profile here](https://www.frontendmentor.io/profile/AndrewHuntington)!)
 
 ⚡ Check my profiles on these code challenge sites! (I don't do these that often.)
