@@ -35,9 +35,11 @@ Welcome to my public profile! Feel free to look around my repositories. If you h
 
 ![My AWS Cloud Practitioner Certification](https://raw.githubusercontent.com/AndrewHuntington/personal-homepage/master/images/aws-certified-cloud-practitioner.png)
 
-:books: I’m currently studying ...
-- TypeScript
-- End-to-end testing using Cypress
+🔩 I’m currently into ...
+- Next.js
+- APIs
+- Unit Testing w/Jest & Testing Library
+- End-to-End Testing w/Cypress
 
 <!-- 
 🔭 I’m currently working on ...
