@@ -35,9 +35,8 @@ Welcome to my public profile! Feel free to look around my repositories. If you h
 
 ![My AWS Cloud Practitioner Certification](https://raw.githubusercontent.com/AndrewHuntington/personal-homepage/master/images/aws-certified-cloud-practitioner.png)
 
-🌱 I’m currently learning ...
-- Fullstack development with the MERN stack
-- RESTful API architecture
+🌱 I’m currently playing with ...
+- Phaser & Phaser Editor 2D
 
 <!-- 
 🔭 I’m currently working on ...
