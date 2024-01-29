@@ -36,7 +36,8 @@ Welcome to my public profile! Feel free to look around my repositories. If you h
 ![My AWS Cloud Practitioner Certification](https://raw.githubusercontent.com/AndrewHuntington/personal-homepage/master/images/aws-certified-cloud-practitioner.png)
 
 🌱 I’m currently playing with ...
-- Phaser & Phaser Editor 2D
+- C# & .NET
+- Unity 3D
 
 <!-- 
 🔭 I’m currently working on ...
